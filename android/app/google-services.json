@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333494464681",
+    "project_id": "dasinya-tv",
+    "storage_bucket": "dasinya-tv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333494464681:android:TEMPORARY_ID",
+        "android_client_info": {
+          "package_name": "com.dasinya.tv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8c33z5lhCHgPinUpLdh2KG146agok2vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

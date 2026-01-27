@@ -1,0 +1,128 @@
+{
+  "videos": [
+    {
+      "title": "Dasinya News 24/7",
+      "description": "Watch live breaking news and updates from around the world",
+      "thumbnailUrl": "https://i.ibb.co/MkmXyttP/5278332249655342554-removebg-preview.png",
+      "logoUrl": "https://i.ibb.co/MkmXyttP/5278332249655342554-removebg-preview.png",
+      "videoUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "category": "News",
+      "duration": "LIVE",
+      "uploadDate": {"_seconds": 1706227200, "_nanoseconds": 0},
+      "isLive": true,
+      "featured": true,
+      "viewers": 2500
+    },
+    {
+      "title": "Dasinya Sports",
+      "description": "Live sports coverage and analysis",
+      "thumbnailUrl": "https://i.ibb.co/C5kzBDmc/5278332249655342558-removebg-preview.png",
+      "logoUrl": "https://i.ibb.co/C5kzBDmc/5278332249655342558-removebg-preview.png",
+      "videoUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "category": "Sports",
+      "duration": "LIVE",
+      "uploadDate": {"_seconds": 1706227200, "_nanoseconds": 0},
+      "isLive": true,
+      "featured": false,
+      "viewers": 3800
+    },
+    {
+      "title": "Dasinya Kids",
+      "description": "Fun and educational content for children",
+      "thumbnailUrl": "https://i.ibb.co/RKsHBqH/5278332249655342559-removebg-preview.png",
+      "logoUrl": "https://i.ibb.co/RKsHBqH/5278332249655342559-removebg-preview.png",
+      "videoUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "category": "Kids",
+      "duration": "LIVE",
+      "uploadDate": {"_seconds": 1706227200, "_nanoseconds": 0},
+      "isLive": true,
+      "featured": false,
+      "viewers": 1900
+    },
+    {
+      "title": "Dasinya Music",
+      "description": "The best music videos and live performances",
+      "thumbnailUrl": "https://i.ibb.co/wFSDRrgP/5278332249655342553-removebg-preview.png",
+      "logoUrl": "https://i.ibb.co/wFSDRrgP/5278332249655342553-removebg-preview.png",
+      "videoUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "category": "Music",
+      "duration": "LIVE",
+      "uploadDate": {"_seconds": 1706227200, "_nanoseconds": 0},
+      "isLive": true,
+      "featured": false,
+      "viewers": 4200
+    },
+    {
+      "title": "Breaking News Special Report",
+      "description": "Comprehensive coverage of today's breaking news stories",
+      "thumbnailUrl": "https://via.placeholder.com/300x450/1E1E2C/FF6B35?text=Breaking+News",
+      "videoUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "category": "News",
+      "duration": "45:30",
+      "uploadDate": {"_seconds": 1706140800, "_nanoseconds": 0},
+      "isLive": false,
+      "featured": false,
+      "viewers": 1250
+    },
+    {
+      "title": "Championship Finals Highlights",
+      "description": "Best moments from the championship finals",
+      "thumbnailUrl": "https://via.placeholder.com/300x450/1E1E2C/2ECC71?text=Sports+Highlights",
+      "videoUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "category": "Sports",
+      "duration": "32:15",
+      "uploadDate": {"_seconds": 1706054400, "_nanoseconds": 0},
+      "isLive": false,
+      "featured": false,
+      "viewers": 3450
+    },
+    {
+      "title": "Movie Night: Epic Adventure",
+      "description": "Watch this week's featured movie premiere",
+      "thumbnailUrl": "https://via.placeholder.com/300x450/1E1E2C/6C63FF?text=Movie+Night",
+      "videoUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "category": "Movies",
+      "duration": "2:15:00",
+      "uploadDate": {"_seconds": 1705968000, "_nanoseconds": 0},
+      "isLive": false,
+      "featured": false,
+      "viewers": 5670
+    },
+    {
+      "title": "Summer Music Festival 2026",
+      "description": "Live performances from top artists",
+      "thumbnailUrl": "https://via.placeholder.com/300x450/1E1E2C/FF6B6B?text=Music+Festival",
+      "videoUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "category": "Music",
+      "duration": "1:30:00",
+      "uploadDate": {"_seconds": 1705881600, "_nanoseconds": 0},
+      "isLive": false,
+      "featured": false,
+      "viewers": 8900
+    },
+    {
+      "title": "Wildlife Documentary: Ocean Life",
+      "description": "Explore the amazing creatures of the deep sea",
+      "thumbnailUrl": "https://via.placeholder.com/300x450/1E1E2C/2ECC71?text=Documentary",
+      "videoUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "category": "Documentary",
+      "duration": "58:45",
+      "uploadDate": {"_seconds": 1705795200, "_nanoseconds": 0},
+      "isLive": false,
+      "featured": false,
+      "viewers": 2340
+    },
+    {
+      "title": "Kids Animation Special",
+      "description": "A collection of fun animated stories for kids",
+      "thumbnailUrl": "https://via.placeholder.com/300x450/1E1E2C/FF6B35?text=Kids+Show",
+      "videoUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "category": "Kids",
+      "duration": "42:20",
+      "uploadDate": {"_seconds": 1705708800, "_nanoseconds": 0},
+      "isLive": false,
+      "featured": false,
+      "viewers": 1890
+    }
+  ]
+}
